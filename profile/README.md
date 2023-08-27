@@ -8,6 +8,7 @@ Here are the steps Bootcampers will take in order to get started with the Org.
 
 - [Exercise 1](https://github.com/BoG-Dev-Bootcamp-F23/bootcamp-f23/tree/main/exer1)
 - [Exercise 2](https://github.com/BoG-Dev-Bootcamp-F23/bootcamp-f23/blob/main/exer2)
+- [Exercise 3](https://github.com/BoG-Dev-Bootcamp-F23/bootcamp-f23/blob/main/exer3)
 
 ## Submitting Projects & Exercises
 Throughout this bootcamp, bootcampers will submit projects and exercises through GitHub. We will utilize GitHub Organizations to make this happen. 
