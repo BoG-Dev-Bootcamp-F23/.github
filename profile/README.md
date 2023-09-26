@@ -13,7 +13,7 @@ Here are the steps Bootcampers will take in order to get started with the Org.
 Throughout this bootcamp, bootcampers will submit projects and exercises through GitHub. We will utilize GitHub Organizations to make this happen. 
 
 **Project Repository Links**
-- [Project 1](https://github.com/BoG-Dev-Bootcamp-F23/project1-f23)
+- [Project 1 — Mini Pokédex](https://github.com/BoG-Dev-Bootcamp-F23/project1-f23)
 
 At the beginning of the semester, Bootcampers should fork the `bootcamp-f23` repository in this organization. This repo contains information and starter code for lectures, exercises, and projects. Once the repo is forked, bootcampers should:
 - name the new repo `bootcamp-f23-name` in the organization
