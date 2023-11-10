@@ -14,6 +14,7 @@ Throughout this bootcamp, bootcampers will submit projects and exercises through
 
 **Project Repository Links**
 - [Project 1 — Mini Pokédex](https://github.com/BoG-Dev-Bootcamp-F23/project1-f23)
+- [Project 2 — Animal Training App](https://github.com/BoG-Dev-Bootcamp-F23/project2-f23)
 
 At the beginning of the semester, Bootcampers should fork the `bootcamp-f23` repository in this organization. This repo contains information and starter code for lectures, exercises, and projects. Once the repo is forked, bootcampers should:
 - name the new repo `bootcamp-f23-name` in the organization
